@@ -1,0 +1,42 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 04 May 2023 10:55:48 at http://ecoinbitrading.com/index.php +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" http://ecoinbitrading.com/index.php -O1 "C:\My Web Sites\eclonesite" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:57:05	Error: 	"Not Found" (404) at link https://ecoinbitrading.com/js/sweatalert.min.js (from https://ecoinbitrading.com/index.php)
+10:57:05	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/mxlvwf8xl6ybziycx1ljnazcmw50qyjo.js (from https://ecoinbitrading.com/index.php)
+10:57:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ecoinbitrading.com/login.php (from https://ecoinbitrading.com/index.php)
+10:57:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ecoinbitrading.com/register.php (from https://ecoinbitrading.com/index.php)
+10:57:14	Error: 	"Not Found" (404) at link https://ecoinbitrading.com/uploads/small/4991597591857.png (from https://ecoinbitrading.com/index.php)
+10:57:14	Error: 	"Not Found" (404) at link https://ecoinbitrading.com/uploads/small/6981597591504.png (from https://ecoinbitrading.com/index.php)
+10:57:14	Error: 	"Not Found" (404) at link https://ecoinbitrading.com/uploads/small/4941597591323.png (from https://ecoinbitrading.com/index.php)
+10:57:14	Error: 	"Not Found" (404) at link https://ecoinbitrading.com/uploads/small/4111597591055.png (from https://ecoinbitrading.com/index.php)
+10:57:14	Error: 	"Not Found" (404) at link https://ecoinbitrading.com/uploads/small/5761597590797.png (from https://ecoinbitrading.com/index.php)
+10:57:14	Error: 	"Not Found" (404) at link https://ecoinbitrading.com/uploads/small/5511597007223.png (from https://ecoinbitrading.com/index.php)
+10:57:14	Error: 	"Not Found" (404) at link https://ecoinbitrading.com/uploads/small/5321597006964.png (from https://ecoinbitrading.com/index.php)
+10:57:14	Error: 	"Not Found" (404) at link https://ecoinbitrading.com/uploads/small/5221597006888.png (from https://ecoinbitrading.com/index.php)
+10:57:14	Error: 	"Not Found" (404) at link https://ecoinbitrading.com/uploads/small/6961597006775.png (from https://ecoinbitrading.com/index.php)
+10:57:14	Error: 	"Not Found" (404) at link https://ecoinbitrading.com/uploads/small/6391597006127.png (from https://ecoinbitrading.com/index.php)
+10:57:14	Error: 	"Not Found" (404) at link https://ecoinbitrading.com/widgets.bitcoin.com/widget.php (from https://ecoinbitrading.com/index.php)
+10:57:15	Error: 	"Not Found" (404) at link https://ecoinbitrading.com/regsiter.php (from https://ecoinbitrading.com/index.php)
+10:57:17	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/eclonesite/ecoinbitrading.com/fonts/museo-sans-300-webfont.svg
+10:57:17	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/eclonesite/ecoinbitrading.com/fonts/museo-sans-300-italic-webfont.svg
+10:57:17	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/eclonesite/ecoinbitrading.com/fonts/museo-sans-500-webfont.svg
+10:57:17	Warning: 	Retry after error -4 (Incorrect length (1042 Bytes, 38690 expected)) at link https://ecoinbitrading.com/fonts/museo-sans-500-italic-webfont.woff (from https://ecoinbitrading.com/css/main.css)
+10:57:17	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/eclonesite/ecoinbitrading.com/fonts/museo-sans-500-italic-webfont.svg
+10:57:17	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/eclonesite/ecoinbitrading.com/fonts/museo-sans-700-webfont.svg
+10:57:17	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/eclonesite/ecoinbitrading.com/fonts/museo-sans-700-italic-webfont.svg
+10:57:17	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/mxlvwf8xl6ybziycx1ljnazcmw50qyjo.js (from https://ecoinbitrading.com/index.php)
+10:57:20	Error: 	"Not Found" (404) at link https://ecoinbitrading.com/cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.php (from https://ecoinbitrading.com/info/about.php)
+10:57:20	Error: 	"Not Found" (404) at link https://ecoinbitrading.com/images/icon/icon-192.php (from https://ecoinbitrading.com/info/about.php)
+10:57:20	Error: 	"Not Found" (404) at link https://ecoinbitrading.com/images/icon/apple-touch-icon-57x57.php (from https://ecoinbitrading.com/info/about.php)
+10:57:20	Error: 	"Not Found" (404) at link https://ecoinbitrading.com/images/icon/apple-touch-icon-72x72.php (from https://ecoinbitrading.com/info/about.php)
+10:57:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ecoinbitrading.com/fonts/museo-sans-500-italic-webfont.woff (from https://ecoinbitrading.com/css/main.css)
+10:57:20	Error: 	"error:00000001:lib(0):func(0):reason(1)" (-5) after 2 retries at link https://code.tidio.co:443/mxlvwf8xl6ybziycx1ljnazcmw50qyjo.js (from https://ecoinbitrading.com/index.php)
+10:57:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ecoinbitrading.com/css/intlTelInput.css (from https://ecoinbitrading.com/register.php)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 38 seconds : 144 links scanned, 118 files written (13998725 bytes overall) [11159366 bytes received at 113871 bytes/sec], 4165040 bytes transferred using HTTP compression in 76 files, ratio 30%, 5.7 requests per connection
+(18 errors, 13 warnings, 0 messages)
